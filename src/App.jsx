@@ -1,4 +1,6 @@
-
+import * as Pages from './pages'
+import { Routes, Route } from 'react-router-dom'
+import { NavBar } from './components'
 
 function App() {
 
